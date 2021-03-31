@@ -1,0 +1,240 @@
+@media (max-width: 576px) {
+    .peopleMobile {
+        display: none;
+    }
+    .main-product-1 {
+        display: none;
+    }
+}
+/*/ Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+    .main-product {
+        width: 10%;
+    }
+    .delivery {
+        height: 80.5rem;
+    }
+    .displayNone {
+        display: none;
+    }
+    .section-3 {
+        display: none;
+    }
+    .section-3-border {
+        background: #fff; border-radius: 239px;
+    }
+    .peopleMobile {
+        display: none;
+    }
+    .main-product-1 {
+        display: none;
+    }
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    .header-page {
+        height: 50vh;
+    }
+    .main-offer {
+        margin-top: 8%;
+    }
+    .main-product {
+        width: 99%;
+        margin-top: 28%;
+    }
+    .deliveryManImg {
+        position: absolute;
+        width: 25.4375rem;
+        height: 20.625rem;
+        margin-top: 18%;
+        margin-left: -30%;
+    }
+    .deliveryMapImg {
+        width: 15.8125rem;
+        height: 12.3125rem;
+        margin-left: 30%;
+    }
+    .delivery {
+        height: 52.5rem;
+    }
+    .displayNone {
+        display: none;
+    }
+    .videoReviewsMobile {
+        width: 300px;
+        height: 150px;
+    }
+    .section-3 {
+        display: block;
+    }
+    /*.mainProductLogo {
+        background: url('../img/main-product-1.png')center center no-repeat;
+        height: 650px;
+    }*/
+    .section-3-border {
+        background: #fff; border-radius: 239px;
+    }
+    .peopleMobile {
+        display: none;
+    }
+    .main-product-1 {
+        display: none;
+    }
+
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    .header-page {
+        height: 60vh;
+    }
+
+    .main-offer {
+        margin-top: 8%;
+    }
+
+    .main-product {
+        width: 98%;
+        margin-top: 8%;
+    }
+    .deliveryManImg {
+        position: absolute;
+        width: 25.4375rem;
+        height: 20.625rem;
+        margin-top: -8%;
+        margin-left: -8%;
+    }
+    .deliveryMapImg {
+        width: 15.8125rem;
+        height: 12.3125rem;
+    }
+    .delivery {
+        height: 42.5rem;
+    }
+    .displayNone {
+        display: block;
+    }
+    .nav-link {
+        font-size: 14px;
+    }
+    .videoReviewsMobile {
+        width: 300px;
+        height: 150px;
+    }
+    .section-3 {
+        display: block;
+    }
+    /*.digitalHuman {
+        background: url('../img/digital-human.png') center center no-repeat;
+    }*/
+    /*.mainProductLogo {
+        background: url('../img/main-product-1.png')center center no-repeat;
+        height: 650px;
+    }*/
+    .section-3-border {
+        background: #fff; border-radius: 339px;
+    }
+    .peopleMobile {
+        display: block;
+    }
+    .main-product-1 {
+        display: block;
+    }
+
+}
+
+/*// X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    .header-page {
+        height: 90vh;
+    }
+
+    .main-offer {
+        margin-top: 8%;
+    }
+    .deliveryManImg {
+        position: absolute;
+        width: 44.1875rem;
+        height: 33.125rem;
+        margin-top: -8%;
+        margin-left: -8%;
+    }
+    .delivery {
+        height: 65.5rem;
+    }
+    .displayNone {
+        display: block;
+    }
+    .videoReviewsMobile {
+        width: 500px;
+        height: 250px;
+    }
+    .section-3 {
+        display: block;
+    }
+    .digitalHuman {
+        background: url('../img/digital-human.png') center center no-repeat;
+    }
+    .mainProductLogo {
+        background: url('../img/main-product-1.png')center center no-repeat;
+        height: 650px;
+    }
+    .section-3-border {
+        background: #fff; border-radius: 439px;
+    }
+    .peopleMobile {
+        display: block;
+    }
+    .main-product-1 {
+        display: block;
+    }
+
+}
+
+/*// XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    .header-page {
+        height: 90vh;
+    }
+
+    .main-offer {
+        margin-top: 8%;
+    }
+    .deliveryManImg {
+        position: absolute;
+        width: 44.1875rem;
+        height: 33.125rem;
+        margin-top: -8%;
+        margin-left: -8%;
+    }
+    .delivery {
+        height: 50.5rem;
+    }
+    .displayNone {
+        display: block;
+    }
+    .videoReviewsMobile {
+        width: 600px;
+        height: 300px;
+    }
+    .section-3 {
+        display: block;
+    }
+    .digitalHuman {
+        background: url('../img/digital-human.png') center center no-repeat;
+    }
+    .mainProductLogo {
+        background: url('../img/main-product-1.png')center center no-repeat;
+        height: 650px;
+    }
+    .section-3-border {
+        background: #fff; border-radius: 439px;
+    }
+    .peopleMobile {
+        display: block;
+    }
+    .main-product-1 {
+        display: block;
+    }
+}
